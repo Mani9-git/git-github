@@ -1,2 +1,2 @@
 # git-github
-Git Projects
+Git Projects by Manideep
